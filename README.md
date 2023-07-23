@@ -4,15 +4,6 @@ Bu proje Ondokuz Mayıs Üniversitesi Bilgisayar Mühendisliği bölümü Mobil 
 
 ▶️ Uygulamanın youtube videosunu izlemek için -> [![](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/youtube-icon.png) Youtube](https://www.youtube.com/watch?v=H8iC5iBxwYk)
 
-### Ekip :
-
-| İsim  | Link  | Görevi |
-|---|---|---|
-| - 👋 Osman Büyükşar   | [GitHub Profili -> ![](https://user-images.githubusercontent.com/56133248/156841715-8667ec6a-2e1c-48ba-a42e-6f6a09ff5478.png)](https://github.com/OsmanBuyuksar)  | Backend |
-| - 👋 Mazen Alghaberi   | [GitHub Profili -> ![](https://user-images.githubusercontent.com/56133248/156841715-8667ec6a-2e1c-48ba-a42e-6f6a09ff5478.png)](https://github.com/m3zen) | Frontend | 
-| - 👋 Yasin Ünal  | [GitHub Profili -> ![](https://user-images.githubusercontent.com/56133248/156841715-8667ec6a-2e1c-48ba-a42e-6f6a09ff5478.png)](https://github.com/Pilestin) | Messaging , Documentation |
-
-
 ### Amaç :
 
 - **Uygulama hasta ile doktoru buluşturan bir platformdur.**
